@@ -1,5 +1,12 @@
 # StashSphere Frontend
 
+⚠️⚠️⚠️
+
+THE DEVELOPMENT HAS MOVED TO [github.com/stashsphere/stashsphere](https://github.com/stashsphere/stashsphere/tree/main/frontend).
+THIS REPOSITORY IS NOW ARCHIVED AND READ-ONLY. IT WILL BE DELETED ON 2026/02/01.
+
+⚠️⚠️⚠️
+
 This is the frontend of stashsphere built using React, Typescript and Vite.
 
 ## Config
